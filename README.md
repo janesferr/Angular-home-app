@@ -18,3 +18,6 @@
 - Run the application 
 
   `ng serve`
+
+  Deployed in Vercel: https://angular-home-app.vercel.app/
+  
